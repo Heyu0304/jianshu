@@ -1,0 +1,52 @@
+{
+	"success": true,
+	"data": {
+		"topicList": [{
+			"id": 1,
+			"title": "社会热点",
+			"imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}, {
+			"id": 2,
+			"title": "手手绘",
+			"imgUrl": "//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}],
+		"articleList": [{
+			"id": 1,
+			"title": "前世缘，今生劫26",
+			"desc": "第二十六章 凤九的吩咐…… 厨房 凤九来到厨房，想到自己已经许久没有下过厨了。 “见过凤主，不知凤主来这里做什么?” 一个在厨房...",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/6856154-c785856e0a45b63c.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}, {
+			"id": 2,
+			"title": "前世缘，今生劫26",
+			"desc": "第二十六章 凤九的吩咐…… 厨房 凤九来到厨房，想到自己已经许久没有下过厨了。 “见过凤主，不知凤主来这里做什么?” 一个在厨房...",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/6856154-c785856e0a45b63c.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}, {
+			"id": 3,
+			"title": "前世缘，今生劫26",
+			"desc": "第二十六章 凤九的吩咐…… 厨房 凤九来到厨房，想到自己已经许久没有下过厨了。 “见过凤主，不知凤主来这里做什么?” 一个在厨房...",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/6856154-c785856e0a45b63c.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}, {
+			"id": 4,
+			"title": "前世缘，今生劫26",
+			"desc": "第二十六章 凤九的吩咐…… 厨房 凤九来到厨房，想到自己已经许久没有下过厨了。 “见过凤主，不知凤主来这里做什么?” 一个在厨房...",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/6856154-c785856e0a45b63c.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}],
+		"recommendList": [{
+			"id": 1,
+			"imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+		}, {
+			"id": 2,
+			"imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+		}, {
+			"id": 3,
+			"imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+		}, {
+			"id": 4,
+			"imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+		}, {
+			"id": 5,
+			"imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+		}]
+	}
+}
+

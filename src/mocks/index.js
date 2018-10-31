@@ -1,0 +1,1 @@
+var mock =require("mockjs");
